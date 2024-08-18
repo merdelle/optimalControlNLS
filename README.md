@@ -1,5 +1,6 @@
 # optimalControlNLS
- Matlab script to find optimal control for inhomogeneous nolinear Schrodinger equation
+
+% Matlab script to find optimal control for inhomogeneous nolinear Schrodinger equation
 %
 % Script to implement optimal control equations on inhomogeneous NLSE
 %
